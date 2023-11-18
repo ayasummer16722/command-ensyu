@@ -2,8 +2,8 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class Main{
-    public static void Bmi(String[] args){
+public class Bmi{
+    public static void main(String[] args){
         Scanner stdIn1 = new Scanner(System.in);
         Scanner stdIn2 = new Scanner(System.in);
 
