@@ -3,7 +3,7 @@ import java.math.RoundingMode;
 import java.util.Scanner;
 
 public class Main{
-    public static void main(String[] args){
+    public static void Bmi(String[] args){
         Scanner stdIn1 = new Scanner(System.in);
         Scanner stdIn2 = new Scanner(System.in);
 
